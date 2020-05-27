@@ -5,10 +5,10 @@ System info:
     Ubuntu 18.04 (gnome desktop)
     ROS Melodic
 
-In order to install ROS follow the instructions at: http://wiki.ros.org/melodic/Installation/Ubuntu
+In order to install ROS follow the instructions in the [ROS Tutorials](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
 If there are issues with the EGL library, it might be due to the linux libraries 
-not being symlinked. To address this issue, follow the steps below by building Qt5 from source:
+not being symlinked (ex. the turtle from the rostopic tutorial not moving). To address this issue, follow the steps below by building Qt5 from source:
 
 Install dependancies:
 
