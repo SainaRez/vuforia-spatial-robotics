@@ -1,7 +1,7 @@
 Installing ROS on RPI:
 
 System info: 
-* RPI 4, 4GB
+* RPi 4, 4GB
 * Ubuntu 18.04 (gnome desktop)
 * ROS Melodic
 
