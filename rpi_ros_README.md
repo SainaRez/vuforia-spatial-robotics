@@ -30,9 +30,10 @@ Then clone the qt respository:
 git clone https://code.qt.io/qt/qt5.git
 cd qt5
 git submodule update --init
+```
 
-
-The steps above should fix the graphics issue. However, if there is an outdated Qt version in the packages, create a build:
+The steps above should fix the graphics issue. 
+However, if there is an outdated Qt version in the packages, create a build:
 
 ```
 mkdir qt-build
