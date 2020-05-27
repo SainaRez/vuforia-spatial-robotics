@@ -41,3 +41,5 @@ cd qt-build
 -release -nomake examples -openssl-runtime -prefix /usr
 ```
 
+For more information refer to [this page](https://raspberrypi.stackexchange.com/questions/61078/qt-applications-dont-work-due-to-libegl)
+
